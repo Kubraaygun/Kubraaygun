@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kubraaygun (Kübra Aygün) Bir Yazılım Geliştiricisiyim ve özellikle React ile Frontend geliştirme konularına ilgi duyuyorum. Takım çalışması benim için vazgeçilmezdir ve işlerimi başarılı bir şekilde tamamlamak için azimli bir yaklaşım benim temel prensibimdir.
-- 👀 İlgi alanlarım Software Development, React Developer, Frontend Development. 
-- 🌱  Kullandığım Teknolojiler: HTML, CSS, SCSS, SASS, BOOTSTRAP, JAVASCRIPT, REACT
+- 👋 Hi, I’m @Kubraaygun (Kübra Aygün) Bir Yazılım Geliştiricisiyim ve özellikle Frontend ve mobil geliştirme konularına ilgi duyuyorum. 
+- 👀 İlgi alanlarım: Yazılım Geliştirme, React ve React Native ile Mobil Uygulama Geliştirme, Frontend Geliştirme, Kullanıcı Deneyimi Tasarımı (UX).
+- 🌱  Kullandığım Teknolojiler: HTML, CSS, SCSS, SASS, Bootstrap, JavaScript, React, React Native, Redux, Axios.
 - 💞️ Her projeye tam bir bağlılıkla yaklaşırım ve başladığım iş bitene kadar çaba gösteririm. Her yeni teknolojiyi öğrenmeye ve projelerimde uygulamaya istekliyim. Kendimi sürekli olarak geliştirme yolunda ilerliyorum.
 
 
