@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kubraaygun (Kübra Aygün) Bir Yazılım Geliştiricisiyim ve özellikle Frontend ve mobil geliştirme konularına ilgi duyuyorum. 
+- 👋 Hi, I’m @Kubraaygun (Kübra Aygün) Bir Yazılım Geliştiricisiyim ve özellikle Frontend ve Mobil geliştirme konularına ilgi duyuyorum. 
 - 👀 İlgi alanlarım: Yazılım Geliştirme, React ve React Native ile Mobil Uygulama Geliştirme, Frontend Geliştirme, Kullanıcı Deneyimi Tasarımı (UX).
 - 🌱  Kullandığım Teknolojiler: HTML, CSS, SCSS, SASS, Bootstrap, JavaScript, React, React Native, Redux, Axios.
 - 💞️ Her projeye tam bir bağlılıkla yaklaşırım ve başladığım iş bitene kadar çaba gösteririm. Her yeni teknolojiyi öğrenmeye ve projelerimde uygulamaya istekliyim. Kendimi sürekli olarak geliştirme yolunda ilerliyorum.
