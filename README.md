@@ -8,7 +8,7 @@
 
 🌱 I'm eager to learn new technologies and apply them to my projects, constantly striving to improve myself.
 
-📫 How to reach me: You can contact me via [email] (kubraaygun@outlook.com.tr) or connect with me on LinkedIn and GitHub. Thank you for visiting my profile! I'm looking forward to collaborating on projects and learning new things together. 🚀
+📫 How to reach me: You can contact me via [E-mail](mailto:kubraaygun@outlook.com.tr) or connect with me on LinkedIn and GitHub. Thank you for visiting my profile! I'm looking forward to collaborating on projects and learning new things together. 🚀
 
 
 
