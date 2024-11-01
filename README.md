@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Kubraaygun (Kübra Aygün) Bir Yazılım Geliştiricisiyim ve özellikle Frontend ve Mobil geliştirme konularına ilgi duyuyorum. 
-- 👀 İlgi alanlarım: Yazılım Geliştirme, React ve React Native ile Mobil Uygulama Geliştirme, Frontend Geliştirme, Kullanıcı Deneyimi Tasarımı (UX).
-- 🌱 Kullandığım Teknolojiler: JavaScript, React, React Native, Redux, Axios, Tailwind, Html, Css, Scss, Sass, Bootstrap, 
-- 💞️ Her projeye tam bir bağlılıkla yaklaşırım ve başladığım iş bitene kadar çaba gösteririm.
-- 🌱 Her yeni teknolojiyi öğrenmeye ve projelerimde uygulamaya istekliyim. Kendimi sürekli olarak geliştirme yolunda ilerliyorum.
+👋 Hi, I'm @Kubraaygun (Kübra Aygün), a Software Developer with a keen interest in Frontend and Mobile development.
 
+👀 My interests include: Software Development, Mobile App Development with React and React Native, Frontend Development, and User Experience Design (UX).
 
-- 📫 How to reach me- İletişim için [e-posta adresimi](kubraaygun@outlook.com.tr) kullanabilir veya LinkedIn ve GitHub profilim üzerinden bana ulaşabilirsiniz.
-Teşekkür ederim iyi ki profilimi ziyaret ettiniz! Sizlerle daha fazla projede çalışmayı ve yeni şeyler öğrenmeyi dört gözle bekliyorum. 🚀
+🌱 Technologies I use: JavaScript, React, React Native, Redux, Axios, Tailwind, HTML, CSS, SCSS, SASS, Bootstrap.
+
+💞️ I approach every project with full dedication and work diligently until the task is completed.
+
+🌱 I'm eager to learn new technologies and apply them to my projects, constantly striving to improve myself.
+
+📫 How to reach me: You can contact me via email (kubraaygun@outlook.com.tr) or connect with me on LinkedIn and GitHub. Thank you for visiting my profile! I'm looking forward to collaborating on projects and learning new things together. 🚀
 
 
 
